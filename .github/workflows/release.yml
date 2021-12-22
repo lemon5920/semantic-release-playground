@@ -5,7 +5,8 @@ on:
     branches: main
 
 jobs:
-  deploy:
+  main:
+    name: Release and deploy
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout 🛎️
