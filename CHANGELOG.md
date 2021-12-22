@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/lemon5920/semantic-release-playground/compare/v1.1.0...v1.2.0) (2021-12-22)
+
+
+### Features
+
+* Setup lint PR title ([#1](https://github.com/lemon5920/semantic-release-playground/issues/1)) ([fbedc02](https://github.com/lemon5920/semantic-release-playground/commit/fbedc023a96cf64ec687141fe7c5257a81fff344))
+
 # [1.1.0](https://github.com/lemon5920/semantic-release-playground/compare/v1.0.0...v1.1.0) (2021-12-22)
 
 
