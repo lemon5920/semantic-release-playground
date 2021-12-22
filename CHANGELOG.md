@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/lemon5920/semantic-release-playground/compare/v1.2.1...v1.2.2) (2021-12-22)
+
+
+### Bug Fixes
+
+* Modify job's name. ([#3](https://github.com/lemon5920/semantic-release-playground/issues/3)) ([1674ecf](https://github.com/lemon5920/semantic-release-playground/commit/1674ecf84a1dbc467cded1b93632ac61172b2b0c))
+
 ## [1.2.1](https://github.com/lemon5920/semantic-release-playground/compare/v1.2.0...v1.2.1) (2021-12-22)
 
 
