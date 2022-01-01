@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: "lts/*"
 
-      - name: Install dependencie 🔩
+      - name: Install dependencies 🔩
         run: yarn
 
       - name: Release new version 🔖
