@@ -19,13 +19,18 @@ jobs:
         with:
           node-version: "lts/*"
 
-      - name: Install dependencies 📦️
+      - name: Install dependencies 🔩
         run: yarn
 
       - name: Release new version 🔖
         run: npx semantic-release
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Build 📦️
+        run: yarn build
+        env:
+          VITE_TEST: ${{ secrets.VITE_TEST }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.7
