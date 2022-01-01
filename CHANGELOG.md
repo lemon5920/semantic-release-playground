@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/lemon5920/semantic-release-playground/compare/v1.2.2...v1.3.0) (2022-01-01)
+
+
+### Features
+
+* with framework ([#4](https://github.com/lemon5920/semantic-release-playground/issues/4)) ([887b87c](https://github.com/lemon5920/semantic-release-playground/commit/887b87cc4f3209744e258cba69f9e3144f17358c))
+
 ## [1.2.2](https://github.com/lemon5920/semantic-release-playground/compare/v1.2.1...v1.2.2) (2021-12-22)
 
 
