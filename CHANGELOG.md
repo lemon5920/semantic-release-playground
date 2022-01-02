@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/lemon5920/semantic-release-playground/compare/v1.3.1...v1.3.2) (2022-01-02)
+
+
+### Bug Fixes
+
+* Base url for static site. ([#7](https://github.com/lemon5920/semantic-release-playground/issues/7)) ([7e810a6](https://github.com/lemon5920/semantic-release-playground/commit/7e810a66a992761c458c1633f62d5a1eb2972a35))
+
 ## [1.3.1](https://github.com/lemon5920/semantic-release-playground/compare/v1.3.0...v1.3.1) (2022-01-02)
 
 
