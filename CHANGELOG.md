@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/lemon5920/semantic-release-playground/compare/v1.3.0...v1.3.1) (2022-01-02)
+
+
+### Bug Fixes
+
+* Add public folder. ([#6](https://github.com/lemon5920/semantic-release-playground/issues/6)) ([0d19f50](https://github.com/lemon5920/semantic-release-playground/commit/0d19f50d48fcfab0bafbacce20086523f538dec9))
+
 # [1.3.0](https://github.com/lemon5920/semantic-release-playground/compare/v1.2.2...v1.3.0) (2022-01-01)
 
 
